@@ -15,6 +15,6 @@ This is a continuation of the project https://github.com/DivyaDharani/Data-Minin
 Clusters are validated by extracting the ground truth data based on the meal intake amount and then calculating the metrics given below.
 
 ## Metrics calculated
-* SSE
+* SSE (Sum of Squared Errors)
 * Entropy
 * Purity
